@@ -1,0 +1,24 @@
+# Core numerical / data handling
+numpy>=1.26
+pandas>=2.2
+scipy>=1.12
+
+# Deep learning
+torch>=2.2
+
+# Classical ML / evaluation utilities
+scikit-learn>=1.4
+
+# Visualization
+matplotlib>=3.8
+seaborn>=0.13
+plotly>=5.20
+
+# Notebook environment
+jupyter>=1.0
+notebook>=7.1
+ipywidgets>=8.1
+
+# Utilities
+tqdm>=4.66
+pyyaml>=6.0

@@ -1,0 +1,46 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# --- Virtual environments ---
+venv/
+env/
+.venv/
+.env
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# --- Environment / secrets ---
+.env
+*.env.local
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+
+# --- IDE ---
+.vscode/
+.idea/
+
+# --- Project-specific ---
+results/checkpoints/*.pt
+results/checkpoints/*.pth
+results/figures/*.png
+results/figures/*.gif
+data/*.npy
+data/*.npz
+
+# keep folder structure but ignore generated artifacts
+!results/checkpoints/.gitkeep
+!results/figures/.gitkeep
+
+# --- Logs ---
+*.log
+logs/
