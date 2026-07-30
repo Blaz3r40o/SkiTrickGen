@@ -1,0 +1,11 @@
+trick_name,n_flips,n_twists,dd_score,trick_id
+Layout (bL),1,0,2.05,0
+Full Twist (bF),1,1,2.9,1
+Double Full Twist (bFF),1,2,3.525,2
+Back Double (bLbL),2,0,3.15,3
+Full-Full (bFbF),2,2,3.825,4
+Full-Double Full (bFbFF),2,3,4.175,5
+Double Full-Full-Full (bFFbFbF),3,4,4.653,6
+Full-Full-Double Full (bFbFbFF),3,4,4.653,7
+Triple Full-Full-Full (bFFFbFbF),3,5,4.9,8
+Quad Twisting Triple (bFFFFbFbF),3,6,5.0,9
